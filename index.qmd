@@ -1,12 +1,11 @@
 ---
 title: "My research in Practice-Oriented Artificial Intelligence"
-author: "A.N. Other (edit at the top of index.qmd)"
+author: "Berenika Ewart-James"
 ---
 
-My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
-This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities. 
-
-{{< var todo >}}
+I am a PhD researcher in Practice-Oriented Artificial Intelligence at the University of Bristol. My research focuses on how artificial intelligence can personalise recommendations and interventions to support health, wellbeing, and behaviour change.
+My current interests include personalised recommender systems, wearable and longitudinal health data, cyclical and circadian modelling, reinforcement learning, and explainable AI. I am particularly interested in methods that account for an individual's changing behavioural and physiological state rather than treating personalisation as static.
+This website presents my research interests, current projects, publications, and other academic activities.
 
 ---
 

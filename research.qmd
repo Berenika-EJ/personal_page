@@ -2,19 +2,35 @@
 title: "Research"
 ---
 
-Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. 
 
-Within the broad area of practice-oriented AI, my current research interests focus on ...
+My research explores how artificial intelligence can personalise interventions that support health, wellbeing, and behaviour change. I am particularly interested in AI systems that adapt to an individual's changing physiological and behavioural state, enabling recommendations that are timely, personalised, and understandable.
 
-### My current research within the CDT
+## Personalised AI for Health and Wellbeing
 
-{{< var todo >}}
+My PhD investigates methods for personalising digital health interventions using machine learning. The long-term goal is to develop AI systems that recommend the right intervention for the right person at the right time, supporting sustainable behaviour change while remaining transparent and trustworthy.
 
-### Relevant research I have done previously
+## Wearable Data and Digital Health
 
-{{< var todo >}}
+Wearable devices provide a rich picture of an individual's daily life through physiological and behavioural measurements such as heart rate, activity, sleep, and recovery. I am interested in how these longitudinal data can be used to understand changes in health and wellbeing and to inform personalised decision-making.
 
-### Research by others I'm building on
+## Cycle-Aware Personalisation
 
-{{< var todo >}}
+Many current AI systems represent time chronologically. My research explores whether modelling recurring physiological and behavioural patterns—such as circadian and other cyclical processes—can provide a more meaningful representation of an individual's state and lead to improved personalisation.
+
+## Explainable Artificial Intelligence
+
+For AI to be useful in healthcare, recommendations should not only be accurate but also understandable. My research therefore investigates explainable AI methods that communicate why a recommendation or prediction has been made, with a particular interest in explainability for temporal and cyclical data.
+
+## Current Interests
+
+My current research interests include:
+
+* Personalised recommender systems for health and wellbeing
+* Wearable sensing and digital biomarkers
+* Behaviour change and digital health
+* Explainable AI
+* Temporal and cyclical machine learning
+* Reinforcement learning for adaptive interventions
+* Human-centred AI
+
 

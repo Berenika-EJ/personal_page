@@ -1,0 +1,20 @@
+---
+title: "Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study"
+date: 2026-04-14
+description: "A CHI 2026 workshop paper examining circadian phase relationships in epilepsy seizures using longitudinal wearable data."
+bibliography: publications.bib
+nocite: |
+  @ewartjames2026circadian
+--- 
+## Overview
+
+This workshop paper investigates whether epileptic seizures exhibit consistent circadian phase relationships that can be identified using longitudinal wearable data from a single participant.
+
+The work demonstrates how wearable-derived physiological measurements can be used to characterise recurring biological rhythms and discusses their potential for personalised health monitoring.
+
+This research represents an early step towards leveraging cyclical physiological information for personalised health technologies and future AI-driven decision support.
+
+## Citation
+
+::: {#refs}
+:::

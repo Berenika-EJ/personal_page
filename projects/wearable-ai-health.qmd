@@ -1,0 +1,32 @@
+---
+title: "Wearable AI for Health"
+date: 2026-07-29
+---
+
+---
+
+title: "Wearable AI for Health and Wellbeing"
+date: 2026-07-15
+----------------
+
+## Overview
+
+Wearable devices provide continuous measurements of physiological and behavioural signals, creating new opportunities to understand health and wellbeing outside traditional clinical settings.
+
+This project explores how wearable data can be analysed using artificial intelligence to identify meaningful physiological patterns, support personalised health monitoring, and inform future health interventions.
+
+## Research Areas
+
+Current areas of interest include:
+
+* longitudinal analysis of wearable data;
+* physiological signal processing;
+* digital biomarkers;
+* sleep and circadian rhythms;
+* behavioural and health state modelling.
+
+## Current Work
+
+Current projects include analysing wearable data collected from health studies, investigating cyclical physiological patterns, and exploring how these data can support explainable AI and future personalised recommendation systems.
+
+This project provides the data and physiological modelling foundations for my broader research programme on personalised, explainable AI for health and wellbeing.

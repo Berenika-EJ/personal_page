@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "Berenika Personal Pages"
+  title: "Berenika Ewart-James"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Researchs
+        text: Research
       - href: projects.qmd
         text: Projects
       - href: publications.qmd
@@ -19,21 +19,18 @@ website:
         text: Blog
   sidebar:
     style: "docked"
-    logo: "./images/user_image.png"
+    logo: "./images/user_image.jpg"
     search: true
     collapse-level: 2
     contents:
       - icon: github
         text: Github
-        url: https://github.com/IntelligentSystemsLaboratory
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com/Bristol_AI_CDT
+        url: https://github.com/Berenika-EJ
       - icon: envelope
         text: "Email"
         url: mailto:ck22122@bristol.ac.uk
       - text: "Google Scholar"
-        url: https://scholar.google.com/citations?user=<google-scholar-user>
+        url: https://scholar.google.com/citations?user=kGBehKMAAAAJ&hl=en
       - text: Pro-AI CDT
         url: https://www.bristol.ac.uk/cdt/practice-oriented-ai/
 format:

@@ -1,0 +1,32 @@
+---
+title: "Cycle-Aware Explainable AI"
+date: 2026-07-29
+---
+
+
+
+## Overview
+
+Many physiological signals exhibit recurring patterns, such as circadian or ultradian rhythms. However, conventional explainable AI methods typically represent time as contiguous windows, which may separate observations that belong to the same physiological phase.
+
+This project investigates how domain knowledge about recurring cycles can be incorporated into explainable AI. Rather than changing the predictive model itself, the work focuses on redesigning the interpretable representation used during explanation generation.
+
+## Research Questions
+
+This project explores questions such as:
+
+* Can explanations be organised around recurring physiological phases rather than contiguous time windows?
+* Does a cycle-aware representation produce explanations that are more meaningful and interpretable?
+* How can wearable data be used to identify recurring physiological states?
+
+## Current Status
+
+Current work includes:
+
+* Development of a cycle-aware explanation framework for physiological time series.
+* Evaluation using wearable health datasets.
+* Comparison with conventional temporal explanation methods.
+* Investigation of explanation quality, stability and interpretability.
+
+This work forms part of my broader research programme on developing explainable recommender systems for personalised health and wellbeing using cycle-aware AI and wearable data.
+

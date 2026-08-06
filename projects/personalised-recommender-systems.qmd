@@ -1,0 +1,27 @@
+---
+title: "Personalised Recommender Systems for Health and Wellbeing"
+date: 2026-07-29
+---
+
+
+
+## Overview
+
+This project explores how artificial intelligence can provide personalised recommendations that support health, wellbeing, and behaviour change.
+
+Unlike many existing recommender systems, which primarily rely on historical interactions or chronological time, I am interested in whether recommendations can be improved by incorporating wearable-derived physiological and behavioural state.
+
+## Research Vision
+
+My long-term research aims to develop explainable recommender systems that combine:
+
+* wearable sensing;
+* cycle-aware AI;
+* personalised health modelling;
+* explainable artificial intelligence.
+
+The goal is to recommend the right intervention to the right person at the right time while providing transparent explanations that support trust and informed decision-making.
+
+## Current Status
+
+This is an emerging research direction that builds on my current work in wearable data analysis and cycle-aware explainable AI. Current activities include reviewing the recommender systems literature, reproducing recent methods, and investigating how these approaches could be adapted for personalised health and wellbeing applications.
