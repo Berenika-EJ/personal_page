@@ -18,21 +18,63 @@
     "href": "index.html",
     "title": "My research in Practice-Oriented Artificial Intelligence",
     "section": "",
-    "text": "My name is A.N. Other (edit at the top of index.qmd) and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\nThis website is authored in Quarto."
+    "text": "I am a PhD researcher in Practice-Oriented Artificial Intelligence at the University of Bristol. My research focuses on how artificial intelligence can personalise recommendations and interventions to support health, wellbeing, and behaviour change. My current interests include personalised recommender systems, wearable and longitudinal health data, cyclical and circadian modelling, reinforcement learning, and explainable AI. I am particularly interested in methods that account for an individual’s changing behavioural and physiological state rather than treating personalisation as static. This website presents my research interests, current projects, publications, and other academic activities.\n\nThis website is authored in Quarto."
   },
   {
-    "objectID": "projects/research_project.html",
-    "href": "projects/research_project.html",
-    "title": "Another Project",
+    "objectID": "projects/cycle-aware-explainable-ai.html",
+    "href": "projects/cycle-aware-explainable-ai.html",
+    "title": "Cycle-Aware Explainable AI",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "Many physiological signals exhibit recurring patterns, such as circadian or ultradian rhythms. However, conventional explainable AI methods typically represent time as contiguous windows, which may separate observations that belong to the same physiological phase.\nThis project investigates how domain knowledge about recurring cycles can be incorporated into explainable AI. Rather than changing the predictive model itself, the work focuses on redesigning the interpretable representation used during explanation generation."
   },
   {
-    "objectID": "publications/paper.html",
-    "href": "publications/paper.html",
-    "title": "A Methodology for Practice-Oriented AI",
+    "objectID": "projects/cycle-aware-explainable-ai.html#overview",
+    "href": "projects/cycle-aware-explainable-ai.html#overview",
+    "title": "Cycle-Aware Explainable AI",
     "section": "",
-    "text": "This conference paper presents a methodology for developing practice-oriented AI applications…\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nOther, A. N., and S. U. Pervisor. 2022. “A Methodology for Practice-Oriented AI.” In European Conference on Artificial Intelligence, 1234–56."
+    "text": "Many physiological signals exhibit recurring patterns, such as circadian or ultradian rhythms. However, conventional explainable AI methods typically represent time as contiguous windows, which may separate observations that belong to the same physiological phase.\nThis project investigates how domain knowledge about recurring cycles can be incorporated into explainable AI. Rather than changing the predictive model itself, the work focuses on redesigning the interpretable representation used during explanation generation."
+  },
+  {
+    "objectID": "projects/cycle-aware-explainable-ai.html#research-questions",
+    "href": "projects/cycle-aware-explainable-ai.html#research-questions",
+    "title": "Cycle-Aware Explainable AI",
+    "section": "Research Questions",
+    "text": "Research Questions\nThis project explores questions such as:\n\nCan explanations be organised around recurring physiological phases rather than contiguous time windows?\nDoes a cycle-aware representation produce explanations that are more meaningful and interpretable?\nHow can wearable data be used to identify recurring physiological states?"
+  },
+  {
+    "objectID": "projects/cycle-aware-explainable-ai.html#current-status",
+    "href": "projects/cycle-aware-explainable-ai.html#current-status",
+    "title": "Cycle-Aware Explainable AI",
+    "section": "Current Status",
+    "text": "Current Status\nCurrent work includes:\n\nDevelopment of a cycle-aware explanation framework for physiological time series.\nEvaluation using wearable health datasets.\nComparison with conventional temporal explanation methods.\nInvestigation of explanation quality, stability and interpretability.\n\nThis work forms part of my broader research programme on developing explainable recommender systems for personalised health and wellbeing using cycle-aware AI and wearable data."
+  },
+  {
+    "objectID": "projects/wearable-ai-health.html",
+    "href": "projects/wearable-ai-health.html",
+    "title": "Wearable AI for Health",
+    "section": "",
+    "text": "title: “Wearable AI for Health and Wellbeing” date: 2026-07-15 —————-"
+  },
+  {
+    "objectID": "projects/wearable-ai-health.html#overview",
+    "href": "projects/wearable-ai-health.html#overview",
+    "title": "Wearable AI for Health",
+    "section": "Overview",
+    "text": "Overview\nWearable devices provide continuous measurements of physiological and behavioural signals, creating new opportunities to understand health and wellbeing outside traditional clinical settings.\nThis project explores how wearable data can be analysed using artificial intelligence to identify meaningful physiological patterns, support personalised health monitoring, and inform future health interventions."
+  },
+  {
+    "objectID": "projects/wearable-ai-health.html#research-areas",
+    "href": "projects/wearable-ai-health.html#research-areas",
+    "title": "Wearable AI for Health",
+    "section": "Research Areas",
+    "text": "Research Areas\nCurrent areas of interest include:\n\nlongitudinal analysis of wearable data;\nphysiological signal processing;\ndigital biomarkers;\nsleep and circadian rhythms;\nbehavioural and health state modelling."
+  },
+  {
+    "objectID": "projects/wearable-ai-health.html#current-work",
+    "href": "projects/wearable-ai-health.html#current-work",
+    "title": "Wearable AI for Health",
+    "section": "Current Work",
+    "text": "Current Work\nCurrent projects include analysing wearable data collected from health studies, investigating cyclical physiological patterns, and exploring how these data can support explainable AI and future personalised recommendation systems.\nThis project provides the data and physiological modelling foundations for my broader research programme on personalised, explainable AI for health and wellbeing."
   },
   {
     "objectID": "events.html",
@@ -53,7 +95,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains.\nWithin the broad area of practice-oriented AI, my current research interests focus on …\n\nMy current research within the CDT\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nRelevant research I have done previously\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nResearch by others I’m building on\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "My research explores how artificial intelligence can personalise interventions that support health, wellbeing, and behaviour change. I am particularly interested in AI systems that adapt to an individual’s changing physiological and behavioural state, enabling recommendations that are timely, personalised, and understandable."
+  },
+  {
+    "objectID": "research.html#personalised-ai-for-health-and-wellbeing",
+    "href": "research.html#personalised-ai-for-health-and-wellbeing",
+    "title": "Research",
+    "section": "Personalised AI for Health and Wellbeing",
+    "text": "Personalised AI for Health and Wellbeing\nMy PhD investigates methods for personalising digital health interventions using machine learning. The long-term goal is to develop AI systems that recommend the right intervention for the right person at the right time, supporting sustainable behaviour change while remaining transparent and trustworthy."
+  },
+  {
+    "objectID": "research.html#wearable-data-and-digital-health",
+    "href": "research.html#wearable-data-and-digital-health",
+    "title": "Research",
+    "section": "Wearable Data and Digital Health",
+    "text": "Wearable Data and Digital Health\nWearable devices provide a rich picture of an individual’s daily life through physiological and behavioural measurements such as heart rate, activity, sleep, and recovery. I am interested in how these longitudinal data can be used to understand changes in health and wellbeing and to inform personalised decision-making."
+  },
+  {
+    "objectID": "research.html#cycle-aware-personalisation",
+    "href": "research.html#cycle-aware-personalisation",
+    "title": "Research",
+    "section": "Cycle-Aware Personalisation",
+    "text": "Cycle-Aware Personalisation\nMany current AI systems represent time chronologically. My research explores whether modelling recurring physiological and behavioural patterns—such as circadian and other cyclical processes—can provide a more meaningful representation of an individual’s state and lead to improved personalisation."
+  },
+  {
+    "objectID": "research.html#explainable-artificial-intelligence",
+    "href": "research.html#explainable-artificial-intelligence",
+    "title": "Research",
+    "section": "Explainable Artificial Intelligence",
+    "text": "Explainable Artificial Intelligence\nFor AI to be useful in healthcare, recommendations should not only be accurate but also understandable. My research therefore investigates explainable AI methods that communicate why a recommendation or prediction has been made, with a particular interest in explainability for temporal and cyclical data."
+  },
+  {
+    "objectID": "research.html#current-interests",
+    "href": "research.html#current-interests",
+    "title": "Research",
+    "section": "Current Interests",
+    "text": "Current Interests\nMy current research interests include:\n\nPersonalised recommender systems for health and wellbeing\nWearable sensing and digital biomarkers\nBehaviour change and digital health\nExplainable AI\nTemporal and cyclical machine learning\nReinforcement learning for adaptive interventions\nHuman-centred AI"
   },
   {
     "objectID": "blogposts/another_post.html",
@@ -63,32 +140,67 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "publications/paper2.html",
-    "href": "publications/paper2.html",
-    "title": "A Case Study in Practice-Oriented Artificial Intelligence",
+    "objectID": "publications/circadian-phase-locking.html",
+    "href": "publications/circadian-phase-locking.html",
+    "title": "Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study",
     "section": "",
-    "text": "This journal paper presents a case study in practice-oriented AI…\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nOther, A. N., and S. U. Pervisor. 2024. “A Case Study in Practice-Oriented Artificial Intelligence.” Artificial Intelligence: Theory and Practice 12 (3): 245–60. https://doi.org/10.1234/aitp.2024.0312."
+    "text": "This workshop paper investigates whether epileptic seizures exhibit consistent circadian phase relationships that can be identified using longitudinal wearable data from a single participant.\nThe work demonstrates how wearable-derived physiological measurements can be used to characterise recurring biological rhythms and discusses their potential for personalised health monitoring.\nThis research represents an early step towards leveraging cyclical physiological information for personalised health technologies and future AI-driven decision support."
   },
   {
-    "objectID": "projects/summer_project.html",
-    "href": "projects/summer_project.html",
-    "title": "Summer Research Project",
+    "objectID": "publications/circadian-phase-locking.html#overview",
+    "href": "publications/circadian-phase-locking.html#overview",
+    "title": "Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study",
     "section": "",
-    "text": "At the end of the Foundation Year I carry out a pilot project for the PhD proper. Mine is about …"
+    "text": "This workshop paper investigates whether epileptic seizures exhibit consistent circadian phase relationships that can be identified using longitudinal wearable data from a single participant.\nThe work demonstrates how wearable-derived physiological measurements can be used to characterise recurring biological rhythms and discusses their potential for personalised health monitoring.\nThis research represents an early step towards leveraging cyclical physiological information for personalised health technologies and future AI-driven decision support."
+  },
+  {
+    "objectID": "publications/circadian-phase-locking.html#citation",
+    "href": "publications/circadian-phase-locking.html#citation",
+    "title": "Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study",
+    "section": "Citation",
+    "text": "Citation\n\n\nEwart-James, Berenika, Matthew Wragg, Nawid Keshtmand, Amberly Brigden, Paul Marshall, and Raul Santos-Rodriguez. 2026. “Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study.” In Everyday Wearable for Personalized Health and Well-Being, CHI 2026 Workshop. Barcelona, Spain. https://everydaywearableforhealth.github.io/assets/pdf/Circadian.pdf."
+  },
+  {
+    "objectID": "projects/personalised-recommender-systems.html",
+    "href": "projects/personalised-recommender-systems.html",
+    "title": "Personalised Recommender Systems for Health and Wellbeing",
+    "section": "",
+    "text": "This project explores how artificial intelligence can provide personalised recommendations that support health, wellbeing, and behaviour change.\nUnlike many existing recommender systems, which primarily rely on historical interactions or chronological time, I am interested in whether recommendations can be improved by incorporating wearable-derived physiological and behavioural state."
+  },
+  {
+    "objectID": "projects/personalised-recommender-systems.html#overview",
+    "href": "projects/personalised-recommender-systems.html#overview",
+    "title": "Personalised Recommender Systems for Health and Wellbeing",
+    "section": "",
+    "text": "This project explores how artificial intelligence can provide personalised recommendations that support health, wellbeing, and behaviour change.\nUnlike many existing recommender systems, which primarily rely on historical interactions or chronological time, I am interested in whether recommendations can be improved by incorporating wearable-derived physiological and behavioural state."
+  },
+  {
+    "objectID": "projects/personalised-recommender-systems.html#research-vision",
+    "href": "projects/personalised-recommender-systems.html#research-vision",
+    "title": "Personalised Recommender Systems for Health and Wellbeing",
+    "section": "Research Vision",
+    "text": "Research Vision\nMy long-term research aims to develop explainable recommender systems that combine:\n\nwearable sensing;\ncycle-aware AI;\npersonalised health modelling;\nexplainable artificial intelligence.\n\nThe goal is to recommend the right intervention to the right person at the right time while providing transparent explanations that support trust and informed decision-making."
+  },
+  {
+    "objectID": "projects/personalised-recommender-systems.html#current-status",
+    "href": "projects/personalised-recommender-systems.html#current-status",
+    "title": "Personalised Recommender Systems for Health and Wellbeing",
+    "section": "Current Status",
+    "text": "Current Status\nThis is an emerging research direction that builds on my current work in wearable data analysis and cycle-aware explainable AI. Current activities include reviewing the recommender systems literature, reproducing recent methods, and investigating how these approaches could be adapted for personalised health and wellbeing applications."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "AI-Related Projects",
     "section": "",
-    "text": "Click on one of the headers below to find out about AI-related projects I am or have been involved in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummer Research Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Click on one of the headers below to find out about AI-related projects I am or have been involved in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWearable AI for Health\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPersonalised Recommender Systems for Health and Wellbeing\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCycle-Aware Explainable AI\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "My Publications",
     "section": "",
-    "text": "I have (co-)authored the following workshop, conference and journal papers. Click through to find out more and see a full citation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Case Study in Practice-Oriented Artificial Intelligence\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Methodology for Practice-Oriented AI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I have (co-)authored the following workshop, conference and journal papers. Click through to find out more and see a full citation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCircadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study\n\n\n\n\n\nA CHI 2026 workshop paper examining circadian phase relationships in epilepsy seizures using longitudinal wearable data.\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/BIAS25.html",
